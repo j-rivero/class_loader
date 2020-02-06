@@ -1,2 +1,2 @@
 fixes:
-  - ros_ws/src/class_loader/::
+  - "ros_ws/src/class_loader/::"
